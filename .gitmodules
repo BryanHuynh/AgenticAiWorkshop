@@ -1,12 +1,16 @@
 [submodule "backend-service"]
 	path = backend-service
 	url = https://github.com/BryanHuynh/AgenticAiWorkshop-Backend-Services.git
+	branch = main
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/BryanHuynh/AgenticAiWorkshop-Frontend.git
+	branch = main
 [submodule "model"]
 	path = model
 	url = https://github.com/BryanHuynh/AgenticAiWorkshop-ollama-model.git
+	branch = main
 [submodule "database"]
 	path = database
 	url = https://github.com/BryanHuynh/AgenticAiWorkshop-database.git
+	branch = main
