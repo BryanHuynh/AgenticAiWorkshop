@@ -7,3 +7,6 @@
 [submodule "model"]
 	path = model
 	url = https://github.com/BryanHuynh/AgenticAiWorkshop-ollama-model.git
+[submodule "database"]
+	path = database
+	url = https://github.com/BryanHuynh/AgenticAiWorkshop-database.git
