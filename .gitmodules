@@ -14,3 +14,6 @@
 	path = database
 	url = https://github.com/BryanHuynh/AgenticAiWorkshop-database.git
 	branch = main
+[submodule "mcp-server"]
+	path = mcp-server
+	url = https://github.com/BryanHuynh/AgenticAiWorkshop-McpServer.git
